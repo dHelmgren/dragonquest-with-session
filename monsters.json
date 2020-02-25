@@ -1,0 +1,52 @@
+{
+  "Monster List":[
+    {
+      "name": "Slime",
+      "HP": 5,
+      "MP": 0,
+      "Atk": 7,
+      "Defn": 5,
+      "Agi": 2 
+    },
+    {
+      "name": "Dracky",
+      "HP": 9,
+      "MP": 0,
+      "Atk": 12,
+      "Defn": 8,
+      "Agi": 5
+    },
+    {
+      "name": "Maulusc",
+      "HP": 8,
+      "MP": 0,
+      "Atk": 9,
+      "Defn": 6,
+      "Agi": 3
+    },
+    {
+      "name": "Iron Ant",
+      "HP": 5,
+      "MP": 4,
+      "Atk": 11,
+      "Defn": 13,
+      "Agi": 4
+    },
+    {
+      "name": "Spirit",
+      "HP": 12,
+      "MP": 0,
+      "Atk": 18,
+      "Defn": 10,
+      "Agi": 8
+    },
+    {
+      "name": "Ratscal",
+      "HP": 10,
+      "MP": 0,
+      "Atk": 14,
+      "Defn": 11,
+      "Agi": 7
+    }
+  ]
+}
