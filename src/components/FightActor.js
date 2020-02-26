@@ -18,3 +18,5 @@ class FightActor extends Component {
 
 
 }
+
+export default FightActor

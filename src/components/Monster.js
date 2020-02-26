@@ -8,10 +8,11 @@ class Monster extends FightActor {
     return (
       <section className='monster'>
         <div>
-          Name: {this.state.name}
-          HP: {this.state.curHP} / {this.state.mpMax}
+          Name: {this.state.name} HP: {this.state.curHP} / {this.state.hpMax}
         </div>
       </section>
     );
   }
 }
+
+export default Monster;
