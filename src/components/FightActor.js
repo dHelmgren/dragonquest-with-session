@@ -5,15 +5,16 @@ class FightActor extends Component {
     super(props);
 
     this.state = {
-      HPMax: props.HP,
-      CurHP: props.HP,
-      MPMax: props.MP,
-      CurMP: props.MP,
-      Atk: props.atk,
-      Defn: props.defn,
-      Agi: props.agi
+      name: props.name,
+      hpMax: props.hp,
+      curHP: props.hp,
+      mpMax: props.mp,
+      curMP: props.mp,
+      atk: props.atk,
+      defn: props.defn,
+      agi: props.agi
     }
   }
 
-  
+
 }
