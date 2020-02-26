@@ -1,0 +1,31 @@
+{
+  "Hero List": [
+    {
+      "Name": "Hero",
+      "HP": 28,
+      "MP": 0,
+      "Str": 5,
+      "Defn": 0,
+      "Agi": 4,
+      "Resl": 2
+    },
+    {
+      "Name": "Cannock",
+      "HP": 31,
+      "MP": 6,
+      "Str": 4,
+      "Defn": 0,
+      "Agi": 4,
+      "Resl": 2
+    },
+    {
+      "Name": "Moonbrooke",
+      "HP": 32,
+      "MP": 28,
+      "Str": 2,
+      "Defn": 0,
+      "Agi": 22,
+      "Resl": 11
+    }
+  ]
+} 
